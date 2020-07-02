@@ -1,0 +1,35 @@
+.Chart {
+  display: flex;
+  height: 100vh;
+  padding: 0px 20px;
+}
+
+.ChartDesc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+  padding: 20px;
+}
+
+.ChartDesc p {
+  text-align: justify;
+}
+
+.ChartModal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+}
+
+.FullScreenButton {
+  padding: 5px;
+  background-color: white;
+  color: #666666;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}

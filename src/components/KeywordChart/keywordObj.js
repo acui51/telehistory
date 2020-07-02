@@ -1,0 +1,141 @@
+const data = [
+  [
+    {
+      text: "Sample Text",
+      external_id: null,
+      error: false,
+      extractions: [
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "bro",
+          count: 327,
+          relevance: "0.999",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "ppl",
+          count: 122,
+          relevance: "0.645",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "funny",
+          count: 228,
+          relevance: "0.630",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "hello",
+          count: 28,
+          relevance: "0.387",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "gotcha",
+          count: 108,
+          relevance: "0.357",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "agree",
+          count: 18,
+          relevance: "0.326",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "stanford",
+          count: 145,
+          relevance: "0.310",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "college",
+          count: 99,
+          relevance: "0.304",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "high school",
+          count: 15,
+          relevance: "0.204",
+          positions_in_text: [],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "usc",
+          count: 209,
+          relevance: "0.199",
+          positions_in_text: [],
+        },
+      ],
+    },
+  ],
+  [
+    {
+      text: "Sample Text",
+      external_id: null,
+      error: false,
+      extractions: [
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "elon musk",
+          count: 1,
+          relevance: "0.952",
+          positions_in_text: [0],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "second image",
+          count: 1,
+          relevance: "0.952",
+          positions_in_text: [78],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "body look",
+          count: 1,
+          relevance: "0.952",
+          positions_in_text: [162],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "spacesuit",
+          count: 2,
+          relevance: "0.952",
+          positions_in_text: [36, 145],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "new design",
+          count: 1,
+          relevance: "0.952",
+          positions_in_text: [105],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "photo",
+          count: 1,
+          relevance: "0.476",
+          positions_in_text: [23],
+        },
+        {
+          tag_name: "KEYWORD",
+          parsed_value: "spacex.",
+          count: 1,
+          relevance: "0.476",
+          positions_in_text: [58],
+        },
+      ],
+    },
+  ],
+];
+
+export default data;

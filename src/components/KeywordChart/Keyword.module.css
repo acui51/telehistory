@@ -1,0 +1,29 @@
+.Chart {
+  display: flex;
+  height: 100vh;
+  padding: 0px 20px;
+}
+
+.ChartModal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+}
+
+.ChartDesc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+  padding: 20px;
+}
+
+.ChartDesc h1 {
+  text-align: right;
+}
+
+.ChartDesc p {
+  text-align: justify;
+}

@@ -1,0 +1,18 @@
+.Navbar {
+  position: absolute;
+  padding-left: 35px;
+}
+
+.RightPush {
+  left: auto;
+}
+
+.Anchor {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.Anchor:hover {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
