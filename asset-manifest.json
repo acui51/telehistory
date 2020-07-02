@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/telehistory/static/css/main.0f8f3854.chunk.css",
+    "main.js": "/telehistory/static/js/main.47c24364.chunk.js",
+    "main.js.map": "/telehistory/static/js/main.47c24364.chunk.js.map",
+    "runtime-main.js": "/telehistory/static/js/runtime-main.f675179b.js",
+    "runtime-main.js.map": "/telehistory/static/js/runtime-main.f675179b.js.map",
+    "static/js/2.af1fec95.chunk.js": "/telehistory/static/js/2.af1fec95.chunk.js",
+    "static/js/2.af1fec95.chunk.js.map": "/telehistory/static/js/2.af1fec95.chunk.js.map",
+    "index.html": "/telehistory/index.html",
+    "precache-manifest.af864eb1b00a7fa57f10bd98d0784f98.js": "/telehistory/precache-manifest.af864eb1b00a7fa57f10bd98d0784f98.js",
+    "service-worker.js": "/telehistory/service-worker.js",
+    "static/css/main.0f8f3854.chunk.css.map": "/telehistory/static/css/main.0f8f3854.chunk.css.map",
+    "static/js/2.af1fec95.chunk.js.LICENSE.txt": "/telehistory/static/js/2.af1fec95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f675179b.js",
+    "static/js/2.af1fec95.chunk.js",
+    "static/css/main.0f8f3854.chunk.css",
+    "static/js/main.47c24364.chunk.js"
+  ]
+}
