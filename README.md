@@ -1,5 +1,5 @@
 # **Telehistory**
-Telehistory is a ReactJS pet project that utilizes ChartJS and MonkeyLearn API to deliver you data representation of your Telegram Chat History. 
+Telehistory is a ReactJS pet project that utilizes ChartJS and MonkeyLearn API to deliver you data representation of your Telegram Chat History.    
 Live Link (Sample Data): https://acui51.github.io/telehistory/
 
 ## **Analyze Your Own Chats:**
